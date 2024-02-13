@@ -1,2 +1,2 @@
 # Provisioners
-Terraform Provisioners eaxample
+Terraform Provisioners script
